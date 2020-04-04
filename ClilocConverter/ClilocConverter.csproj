@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Merix</Authors>
+    <Company>UO Nations</Company>
+    <Description>Cliloc conversor from Cliloc to JSON and Json to Cliloc file version.</Description>
+  </PropertyGroup>
+
+</Project>
